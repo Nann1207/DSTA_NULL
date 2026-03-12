@@ -3,6 +3,9 @@
 
 Crisis Watch is a comprehensive emergency response and reporting application designed to help users stay informed and take action during various crisis situations. The app provides real-time news, emergency checklists, reporting tools, and guides for different types of emergencies such as fires, floods, medical incidents, natural disasters, pandemics, terrorism, and more.
 
+## Demo Link
+https://snack.expo.dev/@nirubaannriea/crisis-watch
+
 ## Members
 - Vania Graciella Kwee
 - Niruba Annriea Kichor Sagayaradje
