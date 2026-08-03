@@ -1,5 +1,5 @@
 # DSTA_NULL - Crisis Watch
-## - From the unexpected to the unthinkable, Crisis Watch has your back -
+## - Our TagLine: From the unexpected to the unthinkable, Crisis Watch has your back -
 
 Crisis Watch is a comprehensive emergency response and reporting application designed to help users stay informed and take action during various crisis situations. The app provides real-time news, emergency checklists, reporting tools, and guides for different types of emergencies such as fires, floods, medical incidents, natural disasters, pandemics, terrorism, and more.
 
@@ -54,12 +54,12 @@ Notes:
 
 ### Installation
 1. Clone the repository:
-	```bash
+	```bash / terminal
 	git clone <repository-url>
 	cd crisis-watch
 	```
 2. Install dependencies:
-	```bash
+	```bash / terminal
 	npm install
 	# or
 	yarn install
@@ -67,7 +67,7 @@ Notes:
 
 ### Running the App
 To start the development server:
-```bash
+```bash / terminal
 npm start
 # or
 yarn start
@@ -75,7 +75,7 @@ yarn start
 
 ### Building for Production
 To build the app for production:
-```bash
+```bash / terminal
 npm run build
 # or
 yarn build
