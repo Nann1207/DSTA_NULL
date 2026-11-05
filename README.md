@@ -1,7 +1,10 @@
 # DSTA_NULL - Crisis Watch
-## - Our TagLine: From the unexpected to the unthinkable, Crisis Watch has your back -
+## - Our Tagline: From the unexpected to the unthinkable, Crisis Watch has your back -
 
 Crisis Watch is a comprehensive emergency response and reporting application designed to help users stay informed and take action during various crisis situations. The app provides real-time news, emergency checklists, reporting tools, and guides for different types of emergencies such as fires, floods, medical incidents, natural disasters, pandemics, terrorism, and more.
+
+## - Unique Selling Point:
+Our integrated app  empowers individuals and families to stay safe and prepared for any type of emergency, offering personalised emergency plans, checklists, real-time alerts, and critical resources offline, ensuring peace of mind during times of emergency.
 
 ## Demo Link
 https://snack.expo.dev/@nirubaannriea/crisis-watch
